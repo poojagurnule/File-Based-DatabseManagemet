@@ -1,0 +1,6 @@
+
+
+
+
+VALUES (123, 'Hello World')
+VALUES (456, 'Java Programming')
